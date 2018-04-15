@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+.wrrap{
+    display: flex;
+flex-wrap: wrap;
+}
+.products{
+    padding: 10px;
+    background:#3333;
+    margin-top: 10px;
+    border:4px solid #eeee;
+    border-radius: 5px;
+    text-align: center;
+    
+}
+.products img{
+    background: #cccc;
+    border:1px solid #eeee;
+    border-radius: 6px;
+    margin: 0px auto;
+}
+.submito{
+    margin-top:10px;
+}
